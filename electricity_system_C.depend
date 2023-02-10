@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655347179 source:c:\users\adones\downloads\c projects\electricity_system_c\main.c
+	<stdio.h>
+	<conio.h>
+
+1655356976 source:c:\users\dell\desktop\programing project\c\desktop application\electricity_system_c\main.c
+	<stdio.h>
+	<conio.h>
+
